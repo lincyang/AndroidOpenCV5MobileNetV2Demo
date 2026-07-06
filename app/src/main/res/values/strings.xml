@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenCV Image Classifier</string>
+    <string name="toolbar_title">OpenCV MobileNet</string>
+</resources>
